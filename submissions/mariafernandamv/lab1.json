@@ -1,22 +1,22 @@
 {
   "labId": "lab-01",
   "labTitle": "Laboratorio 1: Módulos en Python",
-  "studentName": " María Fernanda Muñoz Vargas",
-  "githubUser": "mariafernandamv",
-  "score": 48,
-  "status": "En proceso de mejora",
-  "date": "29/06/2026",
-  "feedback": "Necesita reforzar imports, funciones, módulo propio y ejecución del programa principal.",
+  "studentName": "Estudiante sin nombre",
+  "githubUser": "github-pendiente",
+  "score": 100,
+  "status": "Aprobado",
+  "date": "01/07/2026",
+  "feedback": "Excelente dominio inicial de módulos, funciones reutilizables e importación con alias.",
   "details": [
     {
-      "status": "NO",
-      "points": 0,
-      "message": "No se detectó uso/importación de math."
+      "status": "OK",
+      "points": 7,
+      "message": "Usa el módulo math."
     },
     {
-      "status": "NO",
-      "points": 0,
-      "message": "No se detectó uso/importación de random."
+      "status": "OK",
+      "points": 6,
+      "message": "Usa el módulo random."
     },
     {
       "status": "OK",
@@ -49,24 +49,24 @@
       "message": "Existe la función resumen_estudiante."
     },
     {
-      "status": "NO",
-      "points": 0,
-      "message": "Error al probar calcular_area_circulo: unsupported operand type(s) for -: 'NoneType' and 'float'"
+      "status": "OK",
+      "points": 9,
+      "message": "calcular_area_circulo retorna el valor esperado."
     },
     {
-      "status": "NO",
-      "points": 0,
-      "message": "generar_codigo_estudiante no parece generar iniciales con números."
+      "status": "OK",
+      "points": 7,
+      "message": "generar_codigo_estudiante retorna iniciales y números."
     },
     {
-      "status": "NO",
-      "points": 0,
-      "message": "obtener_fecha_actual no retorna formato YYYY-MM-DD."
+      "status": "OK",
+      "points": 7,
+      "message": "obtener_fecha_actual retorna formato YYYY-MM-DD."
     },
     {
-      "status": "NO",
-      "points": 0,
-      "message": "resumen_estudiante debe retornar un diccionario con nombre, codigo, fecha y area."
+      "status": "OK",
+      "points": 8,
+      "message": "resumen_estudiante retorna un diccionario completo."
     },
     {
       "status": "OK",
@@ -74,14 +74,14 @@
       "message": "main.py importa mi_modulo usando alias."
     },
     {
-      "status": "NO",
-      "points": 0,
-      "message": "main.py debe imprimir el resultado del taller."
+      "status": "OK",
+      "points": 20,
+      "message": "main.py se ejecuta e imprime un resultado."
     },
     {
-      "status": "NO",
-      "points": 0,
-      "message": "Debe mantener comentarios básicos y reemplazar los pass pendientes."
+      "status": "OK",
+      "points": 10,
+      "message": "El código mantiene comentarios básicos y no deja pass pendientes."
     }
   ]
 }
