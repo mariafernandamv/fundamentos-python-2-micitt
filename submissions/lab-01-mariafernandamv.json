@@ -1,0 +1,87 @@
+{
+  "labId": "lab-01",
+  "labTitle": "Laboratorio 1: Módulos en Python",
+  "studentName": " María Fernanda Muñoz Vargas",
+  "githubUser": "mariafernandamv",
+  "score": 48,
+  "status": "En proceso de mejora",
+  "date": "29/06/2026",
+  "feedback": "Necesita reforzar imports, funciones, módulo propio y ejecución del programa principal.",
+  "details": [
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "No se detectó uso/importación de math."
+    },
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "No se detectó uso/importación de random."
+    },
+    {
+      "status": "OK",
+      "points": 7,
+      "message": "Usa datetime."
+    },
+    {
+      "status": "OK",
+      "points": 10,
+      "message": "El archivo mi_modulo.py se importa sin errores."
+    },
+    {
+      "status": "OK",
+      "points": 4,
+      "message": "Existe la función calcular_area_circulo."
+    },
+    {
+      "status": "OK",
+      "points": 4,
+      "message": "Existe la función generar_codigo_estudiante."
+    },
+    {
+      "status": "OK",
+      "points": 4,
+      "message": "Existe la función obtener_fecha_actual."
+    },
+    {
+      "status": "OK",
+      "points": 4,
+      "message": "Existe la función resumen_estudiante."
+    },
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "Error al probar calcular_area_circulo: unsupported operand type(s) for -: 'NoneType' and 'float'"
+    },
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "generar_codigo_estudiante no parece generar iniciales con números."
+    },
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "obtener_fecha_actual no retorna formato YYYY-MM-DD."
+    },
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "resumen_estudiante debe retornar un diccionario con nombre, codigo, fecha y area."
+    },
+    {
+      "status": "OK",
+      "points": 15,
+      "message": "main.py importa mi_modulo usando alias."
+    },
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "main.py debe imprimir el resultado del taller."
+    },
+    {
+      "status": "NO",
+      "points": 0,
+      "message": "Debe mantener comentarios básicos y reemplazar los pass pendientes."
+    }
+  ]
+}
